@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @SN0IPER
+- 👋 Zayn
 - 👀 I’m interested in AI & Deep Learning
-- 🌱 I’m currently learning JS & Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 Jr Data Scientist
 - 📫 How to reach me ...
 
 <!---
